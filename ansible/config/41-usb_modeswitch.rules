@@ -1,0 +1,2 @@
+# Huawei K3765
+ATTRS{idVendor}=="12d1", ATTRS{idProduct}=="1520", RUN+="/usr/sbin/usb_modeswitch -c /etc/usb_modeswitch.conf -W -I"
